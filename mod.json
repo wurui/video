@@ -1,6 +1,6 @@
 {
   "name": "video",
   "version": "0.0.1",
-  "apiDependencies": null
+  "apiDependencies": [{"name":"info-news","selector":"_id"}]
 }
 
